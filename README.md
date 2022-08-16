@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Larry-lupa
 - 👀 I’m interested in software development and the technologies we can use to build solutions for the web.
-- 🌱 I’m currently learning C#, javascript, mongodb, powershell
-- 💞️ I’m looking to collaborate on opne source projects that aim to provide solutions for the web, where my knowledge can be useful and where I can collaborate with the community.
+- 🌱 I’m currently learning C#, Angular, Typescript, Javascript, mongodb, powershell.
+- 💞️ I’m looking to collaborate on open source projects that aim to provide solutions for the web, where my knowledge can be useful and where I can collaborate with the community.
 
 
 <!---
