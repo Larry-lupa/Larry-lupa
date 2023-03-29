@@ -1,7 +1,6 @@
 - 👋 Hi,
-- 👀 I’m interested in sports and software development and the technologies we can use to build solutions for the web.
-- 🌱 I’m currently learning C#, Angular, Typescript, Javascript, mongodb, powershell.
-- 💞️ I’m looking to collaborate on open source projects that aim to provide solutions for the web, where my knowledge can be useful and where I can collaborate with the community.
+- 👀 I’m interested in music, sports and software development. 
+
 
 
 <!---
