@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Laercio "Larry"</h1>
-<h3 align="center">A passionate Software Developer from Brazil, living the dream in UK.</h3>
+<h1 align="center">Hi, I'm Laercio "Larry"</h1>
+<h3 align="center">A Software Developer from Brazil, living the dream in UK.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
